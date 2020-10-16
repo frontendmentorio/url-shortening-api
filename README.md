@@ -24,6 +24,8 @@ Your users should be able to:
 - Copy the shortened link to their clipboard in a single click
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
+  
+⚠️ **IMPORTANT** ⚠️: Rel.ink seems to have been experiencing some issues lately. So, if the API isn't available, here's a great alternative: [https://cleanuri.com/](https://cleanuri.com/).
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
