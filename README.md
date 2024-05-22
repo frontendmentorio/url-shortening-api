@@ -52,9 +52,8 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+It's worth noting that you may run into a [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) error once you host your project that prevents the API request from succeeding. To prevent this, you'll need to research proxy servers or how to implement one yourself. As mentioned above, there are many ways to host your project for free. Our recommended hosts for this challenge (because they allow for serverless functions if needed for the proxy) are:
 
-- [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
